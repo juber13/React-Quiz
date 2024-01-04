@@ -28,10 +28,6 @@ body{
 
 .options-container {
   margin-top: 2rem;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: start;
-  justify-content: center;
   
 }
 
